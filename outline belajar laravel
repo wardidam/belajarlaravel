@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2022-06-20T09:13:49.819Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44" version="20.0.1" etag="Vwjsiwn51dcsZOLj00nJ" type="github"><diagram id="pEu_isas826VT5aYEBIt">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-20T13:25:58.049Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44" etag="stTZfEAWNNuTJ1UgXQEu" version="20.0.1" type="github">
+  <diagram id="pEu_isas826VT5aYEBIt" name="outline">
+    <mxGraphModel dx="782" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="x6JGKyxi_kfAvtU6MsqN-1" value="WARDIDAM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=48;" vertex="1" parent="1">
+          <mxGeometry x="110" y="50" width="370" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="x6JGKyxi_kfAvtU6MsqN-2" value="&lt;h1 style=&quot;font-size: 24px;&quot;&gt;Outline Belajar&lt;/h1&gt;&lt;p style=&quot;font-size: 24px;&quot;&gt;bikin apa?&lt;/p&gt;&lt;p style=&quot;font-size: 24px;&quot;&gt;bikin crud karyawan&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="160" y="150" width="530" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="x6JGKyxi_kfAvtU6MsqN-3" value="install git, composer, laravel, vsc, dll.&lt;br&gt;join wardidam github&lt;br&gt;setup vsc" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="160" y="320" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x6JGKyxi_kfAvtU6MsqN-4" value="clone repo" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="160" y="400" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x6JGKyxi_kfAvtU6MsqN-5" value="buat db pk migration" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="160" y="480" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x6JGKyxi_kfAvtU6MsqN-6" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;buat halaman awal karyawan&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="160" y="560" width="300" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
